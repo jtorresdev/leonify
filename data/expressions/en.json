@@ -1,0 +1,29 @@
+{
+	"play":[
+		"play",
+		"resume"
+	],
+	"pause" : [
+		"pause"
+	],
+	"repeat" : [
+		"repeat",
+		"repeat off"
+	],
+	"next" : [
+		"next"
+	],
+	"previous" : [
+		"previous"
+	],
+	"shuffle":[
+		"shuffle",
+		"shuffle off"
+	],
+	"login" : [
+		"spotify login"
+	], 
+	"authorize" : [
+		"spotify authorize %url%"
+	]
+}

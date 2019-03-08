@@ -1,0 +1,63 @@
+{
+  "play": {
+    "playing": [
+      "%name% %type% by %by% is playing",
+      "%name% %type% by %by% is playing now"
+    ],
+    "playingartist":[
+      "%name% %type% is playing now"
+    ],
+    "resume": [
+      "Resume"
+    ],
+    "nothingfound": [
+      "Nothing found :(",
+      "Sorry, I did not get anything on Spotify"
+    ],
+    "spotifynotrunning": [
+      "Spotify is not running in your PC"
+    ]
+  },
+  "pause": {
+    "pause": [
+      "Spotify paused"
+    ]
+  },
+  "repeat": {
+    "repeat": [
+      "The current song will repeat"
+    ],
+    "repeatoff": [
+      "Repeat off"
+    ]
+  },
+  "next": {
+    "next": [
+      "%name% by %by% is playing"
+    ]
+  },
+  "previous": {
+    "previous": [
+      "%name% by %by% is playing"
+    ]
+  },
+  "shuffle":{
+    "shuffle": [
+      "Shuffle activated"
+    ],
+    "shuffleoff": [
+      "Shuffle off"
+    ]
+  },
+  "login": {
+    "login": [
+      "Please sign in to the tab that just opened, then copy and paste the URL to which you were redirected"
+    ]
+  },
+  "authorize": {
+    "logged": [
+      "Credentials saved, you can use spotify now"
+    ]
+  }
+}
+

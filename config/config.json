@@ -1,0 +1,35 @@
+{
+  "login": {
+    "client_id": "71abaf228a3c49189a56fe9076022246",
+    "client_secret": "e56615a28e3748edbcdbfa8769ac9e48",
+    "scope": "user-modify-playback-state user-read-currently-playing user-read-playback-state ",
+    "callback_uri": "http://localhost:4242/callback",
+    "options": {}
+  },
+  "authorize": {
+    "client_id": "71abaf228a3c49189a56fe9076022246",
+    "client_secret": "e56615a28e3748edbcdbfa8769ac9e48",
+    "scope": "user-modify-playback-state user-read-currently-playing user-read-playback-state ",
+    "callback_uri": "http://localhost:4242/callback",
+    "prefix" : "https://api.spotify.com/v1/",
+    "options": {}
+  },
+  "play": {
+    "options": {}
+  },
+  "pause": {
+    "options": {}
+  },
+  "repeat": {
+    "options": {}
+  },
+  "next" : {
+    "options": {}
+  },
+  "previous": {
+    "options": {}
+  },
+  "shuffle":{
+    "options": {}
+  }
+}
