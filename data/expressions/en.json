@@ -4,11 +4,13 @@
 		"resume"
 	],
 	"pause" : [
-		"pause"
+		"pause",
+		"stop"
 	],
 	"repeat" : [
 		"repeat",
-		"repeat off"
+		"repeat off",
+		"repeat song"
 	],
 	"next" : [
 		"next"
@@ -24,6 +26,6 @@
 		"spotify login"
 	], 
 	"authorize" : [
-		"spotify authorize %url%"
+		"spotify authorize"
 	]
 }
